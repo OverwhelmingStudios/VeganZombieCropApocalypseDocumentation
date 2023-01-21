@@ -1,0 +1,6 @@
+<map id="URecipebuilder::UpdateRecipeUI" name="URecipebuilder::UpdateRecipeUI">
+<area shape="rect" id="node1" title="A function to keep track of the status of the current recipe, i.e. the level of completion." alt="" coords="5,77,216,102"/>
+<area shape="rect" id="node2" href="$class_u_detection_component.html#a53c565e9b6b98a50474f9280a075c930" title=" " alt="" coords="264,5,416,45"/>
+<area shape="rect" id="node3" href="$class_u_detection_component.html#a5d75cb504c3a124788f0ff4fd01421e2" title=" " alt="" coords="264,69,416,109"/>
+<area shape="rect" id="node4" href="$class_u_detection_component.html#abcfa6fb9b5211d77b8397f6b1023c83d" title=" " alt="" coords="264,133,416,173"/>
+</map>
